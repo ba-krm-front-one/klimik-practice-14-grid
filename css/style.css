@@ -46,3 +46,6 @@ select {
 	padding: 20px;
 	max-width: 1200px;
 }
+img:hover{
+	transform: scale(1.05);
+}
